@@ -1,0 +1,31 @@
+.t {
+    /*background-color: rgba(193, 188, 188, 0.708);*/
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.fundo {
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 20px;
+    
+}
+.p {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 100%;
+    background: #f1f1f1;
+  }
+
+  .resp {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 98%;
+    background: #f1f1f1;
+  }
